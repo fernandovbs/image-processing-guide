@@ -1,0 +1,1 @@
+export { default } from '../laborat_rio_de_filtros_de_imagem';
